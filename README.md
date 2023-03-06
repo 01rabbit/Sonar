@@ -1,1 +1,3 @@
 # Sonar
+
+This is a shell script that monitors wireless traffic using the aircrack-ng suite and displays details such as MAC address, signal strength, and vendor information for connected devices. The script requires the wireless interface to be in monitor mode and supports options to loop the monitoring process and to set the loop interval. The script has several variables and functions that are used to define the names of files that store MAC addresses and functions that display details of connected devices. The scripts make it easy to keep track of the devices connected to the network.
